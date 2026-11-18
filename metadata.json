@@ -1,0 +1,6 @@
+{
+  "name": "AeroForge Studio",
+  "description": "Plataforma completa de engenharia aeronáutica passo a passo para projeto, simulação e construção de aeronaves reais, de controle remoto (R/C) e sem piloto (VANT/UAV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
